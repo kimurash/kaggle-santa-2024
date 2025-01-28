@@ -1,0 +1,9 @@
+accelerate
+ipykernel
+ipywidgets
+numpy
+pandas
+python-dotenv
+slackweb
+transformers
+torch

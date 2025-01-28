@@ -1,0 +1,7 @@
+__pycache__/
+
+notebook/
+
+.env
+
+*.out
